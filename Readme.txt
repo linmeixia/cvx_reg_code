@@ -27,4 +27,4 @@ Real datasets:  ex1029.mat (downloaded from R package Sleuth2 https://cran.r-pro
                 Belgianla.mat (downloaded from https://www.wiley.com/legacy/wileychi/verbeek2ed/datasets.html)
 
 
-
+Citation: Meixia Lin, Defeng Sun, and Kim-Chuan Toh, An augmented Lagrangian method with constraint generation for shape-constrained convex regression problems, Mathematical Programming Computation, in print, 2021.
